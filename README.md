@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25" alt="GIF"> Hi 👋🏼, I'm Cristian Monsalvo
 </h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h2>
 
 <p align="center">"I am a frontend developer passionate about creating engaging and functional interfaces, using technologies such as HTML, CSS, and JavaScript, along with modern frameworks like React. Always in pursuit of continuous learning and exciting new opportunities in the world of web development."</p>
 
