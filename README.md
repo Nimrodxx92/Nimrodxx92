@@ -1,3 +1,5 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25" alt="GIF"> Hi 👋🏼, I'm Cristian Monsalvo
 </h1>
 
 <h3 align="center">Frontend Developer</h3>
